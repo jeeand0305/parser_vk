@@ -1,0 +1,3 @@
+my_token = "vk1.a.V0dKm38JH_h4bb5dXDNJazzC7mZdfJGC-F7bZ4cpCkhRDimontcj5eUG_-_GiBxvwLqSmy02GiL0\
+-0GcqOJnM5VJ7scFI9r2rEkLzHODujUhuskWAvwLuAsopAgRl-fgr38zOP0s5i-l1vW57GCBtTYTKBWdsv-\
+ulaC1HK3wghcEYkPX9UuApghejXOVh8Txuv6lTAOcv2GG0Tq50sY8eQ"
